@@ -1,0 +1,343 @@
+<!-- ******************************************************************************************************** !-->
+
+
+
+<!-- ******************************************************************************************************** !-->
+
+
+
+<!-- ******************************************************************************************************** !-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>MD Racing | BMW Z3 M Coupe | Peugeot 205 GTi Mi16 | Images, Movies and Articles</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<meta name="description" content="BMW Z3 M Coupe pictures, movies, guides, articles, reviews and more, not forgetting the old 205 Mi16 content too!" />
+
+<meta name="keywords" content="bmw, m3, m5, m coupe, coupe, s50, s54, z3, z3 m coupe, 205, gti, mi16, 205 gti, mi16 gti, 205 gti, peugeot 205 mi16, peugeot spares, peugeot parts, peugeot spare parts, peugeot accessories, Peugeot 106 parts, peugeot 106, Peugeot 205 parts, peugeot 205, Peugeot 206 parts, peugeot 206, peugeot 306, Peugeot 306 parts, peugeot 306 spares, Peugeot 309, peugeot 309 parts, Peugeot 405, peugeot 405 mi16, 405 mi16, peugeot 405 parts, Peugeot 406 parts, Peugeot 605, peugeot performance, peugeot performance parts, peugeot problems, pug parts, peugeot spares uk, peugeot parts uk, mi16 conversion, trackdays, track images, track movies, how to guides" />
+
+<meta name="robot" content="index,follow" />
+
+<meta name="copyright" content="Copyright © 2006 MD Racing. All Rights Reserved." />
+
+<meta name="author" content="Maximum Designs Ltd." />
+
+<meta name="revisit-after" content="5" />  
+
+<script type="text/javascript" src="java.js"></script>
+<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="lightbox.css" type="text/css" media="screen" />
+<script src="scripts/prototype.js" type="text/javascript"></script>
+<script src="scripts/scriptaculous.js?load=effects" type="text/javascript"></script>
+<script src="scripts/lightbox.js" type="text/javascript"></script>
+
+<link href="http://http://www.mdracing.co.uk/rss-feed.xml" rel="alternate"
+type="application/rss+xml" title="mdRacing RSS Feed" />
+
+</head>
+
+<body bgcolor="#000000">
+
+<table width="100%" cellpadding="1" cellspacing="0">
+<tr>
+ <td align="center" valign="top"> 
+   <table border="0" cellpadding="0" cellspacing="0" width="780" class="grey">
+ <tr>
+  <td valign="top" rowspan="2" height="50"><a href="index.asp"><img src="images/logo_1.gif" border="0" alt="home" /></a><br />
+  	<img src="images/menu1.gif" alt="menu top" /><br />
+  
+<a href="techspec.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('menu2','','images/menu2g.gif',1);window.status='tech spec';return true"><img src="images/menu2.gif" border="0" name="menu2" alt="tech spec" /></a><br />
+  
+<a href="movies.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('menu3','','images/menu3g.gif',1);window.status='track movies';return true"><img src="images/menu3.gif" border="0" name="menu3" alt="track movies" /></a><br />
+  
+<a href="gallery.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('menu4','','images/menu4g.gif',1);window.status='track gallery';return true"><img src="images/menu4.gif" border="0" name="menu4" alt="track gallery" /></a><br />
+  
+<a href="miscgallery.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('menu5','','images/menu5g.gif',1);window.status='misc gallery';return true"><img src="images/menu5.gif" border="0" name="menu5" alt="misc gallery" /></a><br />
+  
+<a href="howto.asp" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('menu6','','images/menu6g.gif',1);window.status='how to guides';return true"><img src="images/menu6.gif" border="0" name="menu6" alt="how to guides" /></a><br />
+  <img src="images/menu7.gif" border="0" alt="menu bottom" /><br /></td>
+ </tr>
+ 
+ 
+
+ 
+ <tr>
+  <td valign="top" height="221" width="607" style="background-image: url(images/banner_flash.jpg);
+     background-repeat: no-repeat;">
+<object				width="607" 
+			height="221" 
+			id="headerImage" data="headerImage.swf" type="application/x-shockwave-flash">
+			<param name="allowScriptAccess" value="sameDomain" />
+			<param name="movie" value="headerImage.swf" />
+			<param name="quality" value="high" />
+			<param name="wmode" value="transparent" />
+                        <param name="valuetype" value="ref" />
+                        <param name="flashvars" value="imageName=images/random/image1.jpg" />
+			
+<!--
+<embed 
+				src="headerImage.swf" 
+				flashvars="imageName=images/random/image1.jpg" 
+				quality="high" 
+				wmode=transparent
+				width="607" 
+				height="221" 
+				name="headerImage" 
+				allowscriptaccess="sameDomain" 
+				type="application/x-shockwave-flash" 
+				pluginspage="http://www.macromedia.com/go/getflashplayer" />
+-->
+		</object></td>
+ </tr>
+
+
+ <tr>
+  <td valign="top" align="center" class="quote">
+  <img src="images/pix.gif" height="20" alt="spacer" /><br />
+  <!--<font color="#669900"><b>md</b></font><font color="#FFFFFF"><b>racing</b></font> is proud to <br />be associated with the following suppliers:
+   <a href="http://www.q-e-p.co.uk" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('sponsor1','','images/sponsors_01g.jpg',1);window.status='tech spec';return true" target="_blank"><img src="images/sponsors_01.jpg" border="0" name="sponsor1" alt="Visit QEP" /></a> 
+   <a href="http://www.forgemotorsport.co.uk" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('sponsor2','','images/sponsors_02g.jpg',1);window.status='tech spec';return true" target="_blank"><img src="images/sponsors_02.jpg" border="0" name="sponsor2" alt="Visit Forge Motorsport" /></a> 
+   <a href="http://www.powerstation.org.uk" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('sponsor3','','images/sponsors_03g.jpg',1);window.status='tech spec';return true" target="_blank"><img src="images/sponsors_03.jpg" border="0" name="sponsor3" alt="Visit PowerStation" /></a> 
+   <a href="http://www.interex.co.uk" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('sponsor4','','images/sponsors_04g.jpg',1);window.status='tech spec';return true" target="_blank"><img src="images/sponsors_04.jpg" border="0" name="sponsor4" alt="Visit Interex" /></a> 
+   <a href="http://www.merlinmotorsport.co.uk" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('sponsor5','','images/sponsors_05g.jpg',1);window.status='tech spec';return true" target="_blank"><img src="images/sponsors_05.jpg" border="0" name="sponsor5" alt="Visit Merlin Motorsport" /></a> 
+   <a href="http://www.paceproducts.co.uk" onmouseout="MM_swapImgRestore();window.status='';return true" onmouseover="MM_swapImage('sponsor6','','images/sponsors_06g.jpg',1);window.status='tech spec';return true" target="_blank"><img src="images/sponsors_06.jpg" border="0" name="sponsor6" alt="Visit Pace Products" /></a> 
+  <br /><img src="images/pix.gif" height="20" alt="spacer" /><br />-->
+<script type="text/javascript"><!--
+google_ad_client = "pub-1799303819103140";
+google_alternate_color = "000000";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "666666";
+google_color_bg = "000000";
+google_color_link = "339900";
+google_color_text = "B3B3B3";
+google_color_url = "B3B3B3";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+  </td>
+  <td valign="top" align="center" rowspan="2"><img src="images/pix.gif" height="10" alt="spacer" /><br />
+  <table width="607" cellpadding="0" cellspacing="0" border="0">
+   <tr>
+    <td width="10" rowspan="2"><img src="images/pix.gif" height="10" alt="spacer" /></td>
+    
+
+  
+  <td width="567" valign="top">
+     <img src="images/spec.gif" alt="spec" /><br />
+     <table width="567" cellpadding="0" cellspacing="0" border="0">
+     <tr>
+     <td width="392" valign="top"><font color="#FFFFFF"><b>engine</b></font><br />
+     1.9 Mi16 Alloy Block<br />
+     MoTeC M48 ECU<br />
+     Jenvey 45mm Throttle Bodies - <a href="jenvey.asp">more details</a><br />
+     90mm Trumpets<br />
+     Longmans Inlet Manifold<br />
+     Auto-Teknix Airbox with 100mm Ducting<br />
+     Pipercross Panel Filter/K&amp;N Cone Filter<br />
+     BMW M3 Bosch Injectors<br />
+     Adjustable Fuel Pressure Regulator (set @ 4bar)<br />
+     Walbro Motorsport Fuel Pump<br />
+     Magnecor 8mm Ignition Leads<br />
+     Forge Oil Catch Tank<br />
+     1.9 8v 'box with Mi Final Drive - <a href="gearbox.asp">more details</a><br />
+     Quaife ATB LSD<br />
+     Longmans 4-2-1 Manifold<br />
+     Straight through to Magnex Backbox<br />
+     Samco Coolant Hoses<br />
+     GrpN ITG Filter<br />
+     GrpN Engine Mounts<br />
+     GrpN Gear Rods<br />
+     GE Quickshift<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     <font color="#FFFFFF"><b>brakes</b></font><br />
+     <font color="#666666"><i>front</i></font><br />
+     Wilwood Dynalite 4-Pot Calipers<br />
+     285mm Plain Discs<br />
+     Mintex M1155 Pads<br />
+     Goodridge Braided Hoses<br />
+     <font color="#666666"><i>rear</i></font><br />
+     Grooved Black Diamond Discs<br />
+     Mintex M1155 Pads<br />
+     Goodridge Braided Hoses<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     <font color="#FFFFFF"><b>suspension</b></font><br />
+     <font color="#666666"><i>front</i></font><br />
+     AST Sport-Line Adjustable Shocks<br />
+     50nm Springs (~285lbs)<br />
+     TAS Top Mounts<br />
+     OMP Upper Strutbrace<br />
+     OMP Lower Strutbrace<br />
+     309 Drive Shafts<br />
+     309 Wishbones<br />
+     Powerflex Wishbone Bushes<br />
+     Stud Conversion<br />
+     <font color="#666666"><i>rear</i></font><br />
+     AST Sport-Line Adjustable Shocks<br />
+     23mm Torsion Bars (Lowered)<br />
+     25mm Anti-Roll Bar<br />
+     SBC Negative Camber kit<br />
+     GrpA Solid Beam Mounts<br />
+     Stud Conversion<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     <font color="#FFFFFF"><b>wheels/tyres</b></font><br />
+     <font color="#666666"><i>dry use</i></font><br />
+     15" Speedline Alloys<br />
+     195/50/15 Yokohama A-048<br />
+     <i>or</i><br />
+     15" Speedline Alloys<br />
+     19/57 x 15 Michelin Slicks (Clio Cup Spec)<br />
+     <font color="#666666"><i>wet use</i></font><br />
+     15" Speedline Alloys<br />
+     195/50/15 Toyo T1-S<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     <font color="#FFFFFF"><b>interior</b></font><br />
+     Fully Stripped<br />
+     Cobra Monaco Seats<br />
+     Sabelt 5-Point Harnesses<br />
+     OMP 10-Point Rollcage<br />
+     OMP Superturismo Wheel<br />
+     Fire Extinguisher<br />
+     Push Button Starter<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     <font color="#FFFFFF"><b>exterior</b></font><br />
+     Carbon Bonnet<br />
+     Polycabonate Windows<br />
+     Lightweight Bonnet Pins<br />
+     Full MD Graphics<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     <font color="#FFFFFF"><b>power</b></font> - <a href="H490OKG_motec.pdf">download dyno graph</a> (48kb pdf)<br />
+     199bhp @ PowerStation 06/03/06 <br />
+     148lb/ft @ PowerStation 06/03/06<br />
+     <!--
+     170bhp @ PowerStation 27/05/05 <br />
+     176nm @ PowerStation 27/05/05<br />
+     -->
+     248bhp/ton (~800kg on 06/03/06)<br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+     To see a small gallery of my previous cars <a href="oldcars.asp">click here</a><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     
+    </td>
+    <td width="15"><img src="images/pix.gif" width="15" alt="spacer" /></td>
+    <td width="170" align="center" valign="top" class="quote"><img src="images/latest.gif" alt="latest update" /><br />
+     <img src="images/2006_sm.gif" alt="2006" /><br />
+     <a href="rebuild.asp" class="popup"><img src="images/rebuild.jpg" border="0" alt="rebuild" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="raceengine.asp" class="popup"><img src="images/raceengine.jpg" border="0" alt="race engine" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="engineremoval.asp" class="popup"><img src="images/engineremoval.jpg" border="0" alt="engine removal" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="drysump.asp" class="popup"><img src="images/drysump.jpg" border="0" alt="pace dry sump" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="dyno2.asp" class="popup"><img src="images/dyno2.jpg" border="0" alt="dyno run with jenveys and motec" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="jenvey.asp" class="popup"><img src="images/jenvey.jpg" border="0" alt="jenvey install" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <img src="images/2005_sm.gif" alt="2005" /><br />
+     <a href="gearbox.asp" class="popup"><img src="images/gearbox.jpg" border="0" alt="ultimate track gearbox" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="bonnetpins.asp" class="popup"><img src="images/bonnetpins.jpg" border="0" alt="bonnet pins" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="dyno1.asp" class="popup"><img src="images/dyno1.jpg" border="0" alt="dyno run" /></a><img src="images/mycar/pix.gif" height="7" alt="spacer" /><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <!-- <a href="rearbeam.asp"><img src="images/rearbeam.jpg" border="0" alt="rear beam" /></a><br /><img src="images/pix.gif" height="10" alt="spacer" /><br />
+     <a href="stickers.asp"><img src="images/stickers.jpg" border="0"></a><br /><img src="images/pix.gif" height="10"><br />
+     <a href="mi16_install.asp"><img src="images/mi16.jpg" border="0"></a><br /><img src="images/pix.gif" height="10"><br /> -->
+     
+     </td>
+    </tr>
+    <!--
+    <tr>
+    <td colspan="3" width="567"><img src="images/pictures.gif"><br />
+    Click a thumbnail for the larger picture (most recent first)...<br /><img src="images/pix.gif" height="10"><br />
+     <a href="javascript:popImage('images/mycar/large/car47.jpg','my 205')" class="popup"><img src="images/mycar/car47.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car46.jpg','my 205')" class="popup"><img src="images/mycar/car46.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car45.jpg','my 205')" class="popup"><img src="images/mycar/car45.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car44.jpg','my 205')" class="popup"><img src="images/mycar/car44.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car43.jpg','my 205')" class="popup"><img src="images/mycar/car43.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car42.jpg','my 205')" class="popup"><img src="images/mycar/car42.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car41.jpg','my 205')" class="popup"><img src="images/mycar/car41.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car40.jpg','my 205')" class="popup"><img src="images/mycar/car40.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car39.jpg','my 205')" class="popup"><img src="images/mycar/car39.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car38.jpg','my 205')" class="popup"><img src="images/mycar/car38.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car37.jpg','my 205')" class="popup"><img src="images/mycar/car37.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car36.jpg','my 205')" class="popup"><img src="images/mycar/car36.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car35.jpg','my 205')" class="popup"><img src="images/mycar/car35.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car34.jpg','my 205')" class="popup"><img src="images/mycar/car34.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car33.jpg','my 205')" class="popup"><img src="images/mycar/car33.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car32.jpg','my 205')" class="popup"><img src="images/mycar/car32.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car31.jpg','my 205')" class="popup"><img src="images/mycar/car31.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car30.jpg','my 205')" class="popup"><img src="images/mycar/car30.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car29.jpg','my 205')" class="popup"><img src="images/mycar/car29.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car28.jpg','my 205')" class="popup"><img src="images/mycar/car28.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car27.jpg','my 205')" class="popup"><img src="images/mycar/car27.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car26.jpg','my 205')" class="popup"><img src="images/mycar/car26.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car25.jpg','my 205')" class="popup"><img src="images/mycar/car25.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car24.jpg','my 205')" class="popup"><img src="images/mycar/car24.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car23.jpg','my 205')" class="popup"><img src="images/mycar/car23.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car22.jpg','my 205')" class="popup"><img src="images/mycar/car22.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car21.jpg','my 205')" class="popup"><img src="images/mycar/car21.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car20.jpg','my 205')" class="popup"><img src="images/mycar/car20.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car19.jpg','my 205')" class="popup"><img src="images/mycar/car19.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car18.jpg','my 205')" class="popup"><img src="images/mycar/car18.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car17.jpg','my 205')" class="popup"><img src="images/mycar/car17.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car16.jpg','my 205')" class="popup"><img src="images/mycar/car16.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car15.jpg','my 205')" class="popup"><img src="images/mycar/car15.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car14.jpg','my 205')" class="popup"><img src="images/mycar/car14.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car13.jpg','my 205')" class="popup"><img src="images/mycar/car13.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car12.jpg','my 205')" class="popup"><img src="images/mycar/car12.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car10.jpg','my 205')" class="popup"><img src="images/mycar/car10.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car9.jpg','my 205')" class="popup"><img src="images/mycar/car9.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car8.jpg','my 205')" class="popup"><img src="images/mycar/car8.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car7.jpg','my 205')" class="popup"><img src="images/mycar/car7.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+		 <a href="javascript:popImage('images/mycar/large/car6.jpg','my 205')" class="popup"><img src="images/mycar/car6.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car5.jpg','my 205')" class="popup"><img src="images/mycar/car5.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car4.jpg','my 205')" class="popup"><img src="images/mycar/car4.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car3.jpg','my 205')" class="popup"><img src="images/mycar/car3.jpg" border="0" alt="click for large picture"></a><img src="images/mycar/pix.gif" height="7">
+		 <a href="javascript:popImage('images/mycar/large/car2.jpg','my 205')" class="popup"><img src="images/mycar/car2.jpg" border="0" alt="click for large picture"></a><br /><img src="images/mycar/pix.gif" height="7"><br />
+		 
+    </td>
+    <tr>
+    	-->
+    	</table>
+    </td>
+      
+
+	<td width="30" rowspan="2"><img src="images/pix.gif" width="30" alt="spacer" /></td>
+   </tr>
+   <tr>
+    <td colspan="3" valign="bottom" class="copyright" align="left">
+    <!-- Start Bottom Menu !-->
+     <!-- <img src="images/line.gif"><br /><img src="images/pix.gif" height="5"><br />
+     <center><a href="http://www.205gtidrivers.com" target="_blank"><img src="images/banners/205drivers.jpg" border="0" alt="205GTiDrivers.com"></a><br /><a href="http://www.205gtidrivers.com" target="_blank" class="copyright">www.205gtidrivers.com</a></center>
+     <br /><img src="images/pix.gif" height="5" alt="spacer" /><br />
+     <a href="index.asp" class="copyright">home</a> - <a href="spec.asp" class="copyright">tech spec</a> - <a href="movies.asp" class="copyright">track movies</a> - <a href="gallery.asp" class="copyright">track gallery</a> - <a href="miscgallery.asp" class="copyright">misc gallery</a> - <a href="howto.asp" class="copyright">how to guides</a><br /><img src="images/pix.gif" height="15"><br />-->
+     <!-- End Bottom Menu !-->
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+ <tr>
+ <td valign="bottom" align="center" class="quote" rowspan="2">
+  <img src="images/logo.gif" alt="maximum designs logo" /> 
+  designed by: <a href="http://www.maxd.co.uk" target="_blank" class="small"><img src="images/md.gif" border="0" alt="maximum designs website" /></a><br /><img src="images/pix.gif" height="10" alt="spacer" /><br /></td>
+  </tr>
+ </table>
+ </td>
+ </tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2555395-3";
+urchinTracker();
+</script>
+</body>
+</html>

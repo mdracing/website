@@ -1,0 +1,46 @@
+body {font: 11px Verdana, Arial; color: #000066; text-decoration:none; FONT-WEIGHT: normal }
+
+td {font: 11px Verdana, Arial; color: #999999; text-decoration:none; FONT-WEIGHT: normal }
+
+td.quote {font: 10px Verdana, Arial; color: #666666; text-decoration:none; FONT-WEIGHT: normal }
+
+td.copyright {font: 9px Verdana, Arial; color: #333333; text-decoration:none; FONT-WEIGHT: normal }
+
+td.note {font: 9px Verdana, Arial; color: #FF0000; text-decoration:none; FONT-WEIGHT: normal }
+
+A:link {font: 11px Verdana, Arial; color: #669900; text-decoration:none; FONT-WEIGHT: bold }
+
+A:visited {font: 11px Verdana, Arial; color: #669900; text-decoration:none; FONT-WEIGHT: bold}
+
+A:hover {font: 11px Verdana, Arial; color: #666666; text-decoration:underline; FONT-WEIGHT: bold}
+
+A:link.news {font: 10px Verdana, Arial; color: #669900; text-decoration:none; FONT-WEIGHT: normal; font-style: italic}
+
+A:visited.news {font: 10px Verdana, Arial; color: #669900; text-decoration:none; FONT-WEIGHT: normal; font-style: italic}
+
+A:hover.news {font: 10px Verdana, Arial; color: #666666; text-decoration:underline; FONT-WEIGHT: normal; font-style: italic}
+
+A:link.small {font: 10px Verdana, Arial; color: #669900; text-decoration:none; FONT-WEIGHT: bold }
+
+A:visited.small {font: 10px Verdana, Arial; color: #669900; text-decoration:none; FONT-WEIGHT: bold}
+
+A:hover.small {font: 10px Verdana, Arial; color: #666666; text-decoration:underline; FONT-WEIGHT: bold}
+
+table.grey { border-style: solid; border-width: 1px; border-color: #666666; border-bottom-width: 1px; border-top-width: 0px }
+
+form.formclass {display: inline;}
+
+.buttons {font-family: Verdana; FONT-WEIGHT: bold; font-size: 10px; color: #000000; background-color: #FFFF00; border: 1 solid #000000; padding-top: -2; padding-bottom: -2}
+
+A:link.venue {font: 10px Verdana, Arial; color: #CCCC33; text-decoration:none; FONT-WEIGHT: bold }
+
+A:visited.venue {font: 10px Verdana, Arial; color: #CCCC33; text-decoration:none; FONT-WEIGHT: bold}
+
+A:hover.venue {font: 10px Verdana, Arial; color: #666666; text-decoration:underline; FONT-WEIGHT: bold}
+
+A:link.copyright {font: 9px Verdana, Arial; color: #333333; text-decoration:none; FONT-WEIGHT: normal }
+
+A:visited.copyright {font: 9px Verdana, Arial; color: #333333; text-decoration:none; FONT-WEIGHT: normal}
+
+A:hover.copyright {font: 9px Verdana, Arial; color: #669900; text-decoration:underline; FONT-WEIGHT: normal}
+
